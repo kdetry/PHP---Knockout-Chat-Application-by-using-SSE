@@ -1,0 +1,6 @@
+/vendor/
+/nbproject/
+/logs/*
+!/logs/README.md
+composer.phar
+composer.lock
