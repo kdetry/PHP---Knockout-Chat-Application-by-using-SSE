@@ -1,7 +1,7 @@
 # PHP---Knockout-Chat-Application-by-using-SSE
 PHP - Knockout Chat Application by using SSE. It is not ready for production
 
-# Your should install dependencies firstly
+# You should install dependencies firstly
 composer install
 # Or
 php composer.phar install
